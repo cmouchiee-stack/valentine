@@ -44,7 +44,7 @@ startBtn.addEventListener("click", () => {
     mainContent.classList.add("show");
 });
 window.addEventListener("DOMContentLoaded", () => {
-    const text = "ANJAY";
+    const text = "YORAAA";
     const typingElement = document.getElementById("typingName");
     let index = 0;
 
